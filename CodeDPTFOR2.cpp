@@ -16,7 +16,7 @@ int main()
         int sum = 0;
         for (int j = i; j < n; j++) {//O(n+1)
             sum += arr[j];
-            if (best < sum)//O(1)
+            if (best < sum)
             {
                 dau = i + 1;//O(1)
                 cuoi = j + 1;//O(1)

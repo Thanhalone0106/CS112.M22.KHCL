@@ -15,7 +15,7 @@ int main()
     for (int i = 0; i < n; i++) {//O(n)
         for (int j = i; j < n; j++) {//O(n)
             int sum = 0;
-            for (int k = i; k <= j; k++) {//O(j+1)
+            for (int k = i; k <= j; k++) {
                 sum += arr[k];
             }
             if (best < sum)//O(1)
@@ -27,5 +27,5 @@ int main()
         }
     }
     cout << dau << "  " << cuoi << "  " << best;//O(1)
-    //độ phức tạp là :O((n)(n)(j+1))
+  
 }

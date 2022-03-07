@@ -11,7 +11,7 @@ int main()
     {
         cin >> arr[i];
     }
-    int best = INT_MIN;
+    int best = 0;
     for (int i = 0; i < n; i++) {//O(n)
         for (int j = i; j < n; j++) {//O(n)
             int sum = 0;

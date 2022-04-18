@@ -26,7 +26,7 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Trần Duy Thanh | 20521925 | Nhóm trưởng | 20521925@gm.uit.edu.vn | https://github.com/Thanhalone0106  |
-| 2 | Lê Thế Tuấn | 20522113 | Thành viên | 20522113@gm.uit.edu.vn | https://github.com/nguyenthanhphuc080402 |
+| 2 | Lê Thế Tuấn | 20522113 | Thành viên | 20522113@gm.uit.edu.vn | https://github.com/tuan090932 |
 
 
 ## CHỦ ĐỀ BÁO CÁO
